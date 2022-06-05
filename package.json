@@ -1,0 +1,23 @@
+{
+  "name": "@atomico/tsconfig",
+  "version": "1.0.0",
+  "files": [
+    "base.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "UpperCod",
+    "email": "uppercod.git@gmail.com",
+    "url": "https://github.com/uppercod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atomicojs/tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atomicojs/tsconfig/issues"
+  },
+  "homepage": "https://github.com/atomicojs/tsconfig"
+}
